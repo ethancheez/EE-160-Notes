@@ -1,4 +1,4 @@
-# LAB 4
+# Lab 4
 Due at the end of lab next week: Tuesday, September 22
 
 ## countup.c
@@ -193,7 +193,7 @@ Hello World
 160
 ```
 
-My temperature.c if you need it. 
+My temperature.c from Lab 3 if you need it. 
 ```c
 
 #include <stdio.h>
