@@ -1,6 +1,50 @@
 # Lab 4
 Due at the end of lab next week: Tuesday, September 22
 
+## While Loops
+Method 1:
+- The general way to write a while loop with the condition inside the parenthesis
+```c
+while( n != 0 ) {
+  //some code
+  //make sure that the variable "n" changes here so it will equal to 0 at some point
+  //or else you will have an infinite loop.
+}
+```
+Method 2:
+- Another way to write a while loop where you put "1" in the parenthesis
+  - "1" basically means "true", so saying while(1) means "while true", which is always true
+  - This creates a loop that will always run.
+  - This loop ends with an if statement inside the while loop, followed by a "break;"
+    - "break" means to exit the loop that is currently running
+- Advantages of this method vs. method 1:
+  - You are able to put the break condition in the middle of the loop
+  - Therefore, the loop can exit without actually having to go through the entire loop
+```
+while(1) {
+  //some code
+ 
+  if(n == 0)
+    break;
+    
+  //some code
+}
+```
+
+### break;
+```c
+/* Loop 1 */
+while(1) {
+
+  /* Loop 2 */
+  while(1) {
+    break;  //This will exit loop 2, but loop 1 will still be running
+  }
+  
+  break;  //This will exit loop 1
+}
+```
+
 ## countup.c
 ```c
 /*      File : countup.c        *
