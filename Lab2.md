@@ -1,9 +1,5 @@
 # Lab 2
-
-
-## Lab Task (Due next week before lab!)
-
-(All this information is on the ee160 webstie)
+Due at the end of next week's lab!
 
 ## Team Formation (Omitted because COVID, continue to next section)
 - Do Team Exercise (10 min)
