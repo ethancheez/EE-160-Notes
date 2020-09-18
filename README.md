@@ -11,6 +11,6 @@ Mondays: 10:00 AM - 11:00 AM
 For office hours outside of this time, please email me so we can schedule a meeting.
 
 ## Credits
-PS: Thanks Frendy for the idea and setting this up :)
+PS: Thanks Frendy for the idea and setting a lot of this up :)
 
 If you want to look at his section: https://github.com/frendylio/EE160
