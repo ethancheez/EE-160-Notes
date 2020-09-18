@@ -289,7 +289,7 @@ Example:
 // Thus, when it tries to do 35.00 - 5 = 30.00, it checks that 30 < 33; therefore not printing 30 Celsius.
 Enter a temperature to start in degrees Fahrenheit: 50
 Enter a temperature to stop in degrees Fahrenheit: 33
-===C===|===F===
+===F===|===C===
 50.00  | 10.00
 45.00  | 7.22
 40.00  | 4.44
@@ -298,7 +298,7 @@ Computed 4 temperatures
 // Example of positive increment
 Enter a temperature to start in degrees Fahrenheit: 30
 Enter a temperature to stop in degrees Fahrenheit: 60
-===C===|===F===
+===F===|===C===
 30.00  | -1.11
 35.00  | 1.67
 40.00  | 4.44
