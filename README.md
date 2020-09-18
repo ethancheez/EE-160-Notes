@@ -4,6 +4,8 @@ Notes for EE 160 Section 1 Lab. Open to any EE 160 student.
 
 EE 160 Labs Website: https://sites.google.com/view/ee160c/labs?authuser=0
 
+FYI: there may be a few typos in here.
+
 
 ## Office Hours
 Mondays: 10:00 AM - 11:00 AM
