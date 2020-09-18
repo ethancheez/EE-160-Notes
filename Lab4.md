@@ -31,7 +31,7 @@ while(1) {
 }
 ```
 
-### break;
+### How break; works
 ```c
 /* Loop 1 */
 while(1) {
