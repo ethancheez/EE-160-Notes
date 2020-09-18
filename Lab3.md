@@ -60,10 +60,10 @@ scanf("%f", &time);
 ```c
 scanf("%f\n", &time);
 
-It will scanf ("%s\n", &time) it will scan for time followed by optional white space
+It will scan for a user input as a float and store it in the variable "time"
 ```
 
-## Gravity.c
+## gravity.c
 
 In case you need a Gravity.c fixed from Lab 2. (You can just re-use your gravity.c code)
 ```c
