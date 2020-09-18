@@ -20,7 +20,7 @@ Method 2:
 - Advantages of this method vs. method 1:
   - You are able to put the break condition in the middle of the loop
   - Therefore, the loop can exit without actually having to go through the entire loop
-```
+```c
 while(1) {
   //some code
  
