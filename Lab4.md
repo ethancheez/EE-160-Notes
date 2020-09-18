@@ -1,5 +1,5 @@
 # LAB 4
-Due at the end of lab next week!
+Due at the end of lab next week: Tuesday, September 22
 
 ## countup.c
 ```c
