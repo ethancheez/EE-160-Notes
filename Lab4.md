@@ -24,7 +24,7 @@ int main() {
 Fix the code so that there are no warnings when compiling.
 
 Expected output
-```c
+```
 1
 2
 .
@@ -61,7 +61,7 @@ Fix the program so that there are no warnings when compiling.
     - Or just kill the terminal.
 
 Expected output
-```c
+```
 10
 9
 .
