@@ -229,7 +229,7 @@ Invalid Temperature
 
 ## temptable.c
 ### Write your algorithm first! Save this in an algorithms file
-    - You can use vi to do this or just use a .txt file
+    - You can use "vi algorithms"
     - Yes I will require this, sorry :(
 
 ### CheckList
@@ -271,7 +271,7 @@ Enter a temperature to stop in degrees Fahrenheit: 30
 
 ## account.c
 ### Write your algorithm first! Save this in the same algorithm file used for temptbl.c
-    - You can use vi to do this or just use a .txt file
+    - You can use "vi algorithms"
     - Yes I will require this, sorry :(
 
 ### CheckList
@@ -308,7 +308,7 @@ Enter initial amount (0 to exit): 0
 ```
 
 ## What to submit
-Submit an algorithms.txt and 5 .c files
+- algorithms
 - countup.c 
 - countdown.c 
 - temperature.c 
