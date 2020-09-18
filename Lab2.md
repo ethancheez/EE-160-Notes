@@ -52,7 +52,7 @@ Due at the end of next week's lab!
 - Copy the file from ~ee160/Labs/Lab2/gravity.c
 - Fix it so it can compile
 
-## Submition
+## Submission
 - To submit:
     ```
         grade -lab2s1,ee160 welcome.c myname.c myinfo.c pay0.c gravity.c
