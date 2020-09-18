@@ -1,4 +1,4 @@
-# Lab Task
+# Lab 1
 
 (All this information is on the ee160 webstie)
 
