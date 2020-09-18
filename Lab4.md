@@ -1,4 +1,5 @@
 # LAB 4
+Due at the end of lab next week!
 
 ## countup.c
 ```c
