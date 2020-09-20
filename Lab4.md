@@ -45,6 +45,31 @@ while(1) {
 }
 ```
 
+## If Statements
+You will need to know this for temptbl.c
+```c
+/*  If Statement  */
+if(condition 1) {
+  //do something if condition 1 is true
+}
+
+/*  If-Else Statement */
+if(condition 1) {
+  //do something if condition 1 is true
+} else {
+  //do something if condition 1 is not true
+}
+
+/*  If-Else If-Else Statement */
+if(condition 1) {
+  //do something if condition 1 is true
+} else if(condition 2) {
+  //do something if condition 1 is not true AND condition 2 is true
+} else {
+  //do something if neither condition 1 nor condition 2 are true
+}
+```
+
 ## countup.c
 ```c
 /*      File : countup.c        *
