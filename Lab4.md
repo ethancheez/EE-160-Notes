@@ -77,7 +77,7 @@ int b = 2;
 if(a == 1) {  //condition 1
   //this will run because condition 1 is true
 } else if(b == 2) { //condition 2
-  //this will NOT run even though condition 2 is true, because the condition 1 was true.
+  //this will NOT run even though condition 2 is true, because condition 1 was true.
 }
 
 if(a == 2) {  //condition 1
