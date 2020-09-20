@@ -69,6 +69,31 @@ if(condition 1) {
   //do something if neither condition 1 nor condition 2 are true
 }
 ```
+Example:
+```c
+int a = 1;
+int b = 2;
+
+if(a == 1) {  //condition 1
+  //this will run because condition 1 is true
+} else if(b == 2) { //condition 2
+  //this will NOT run even though condition 2 is true, because the condition 1 was true.
+}
+
+if(a == 2) {  //condition 1
+  //this will not run because condition 1 was false
+} else if(b == 2) { //condition 2
+  //this will run because condition 2 is true and condition 1 was false
+} else {
+  //this will not run because condition 2 was true
+}
+
+if(a == 2) {  //condition 1
+  //this will not run because condition 1 was false
+} else { 
+  //this will run because condition 1 was false
+}
+```
 
 ## countup.c
 ```c
