@@ -209,7 +209,7 @@ Copy temptbl.c from your Lab 4.
 
 ## account.c
 Copy your account.c from your Lab 4.
--   Try your best not to edit the calc_acc_ammount function
+-   Try your best not to edit the calc_acc_amount function
 -   Basically, add a new scan for the compound interval (annually, monthly, or daily)
     -   Make sure you add a condition to check for valid/invalid inputs
 -   Add if statements to compute the accumulated amount for each of the three possible compound interval.
