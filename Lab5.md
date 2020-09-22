@@ -247,6 +247,12 @@ Enter Initial Amount (EOF to exit): [CTRL + D]
 ... Exiting Program ...
 ```
 
+### Macros
+```c
+#define ANNUALLY -1
+#define MONTHLY 2
+#define DAILY 3
+```
 
 ## What to submit
 -   sum.c
