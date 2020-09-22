@@ -5,6 +5,7 @@ Due at the end of lab next week: Tuesday, September 29
 ## End of File Character
 -   Written as "EOF"
 -   Used to detect a [CTRL + D] input.
+-   Or, as the name suggests, used to detect the end of a text file.
 
 ### Examples using EOF
 ```c
