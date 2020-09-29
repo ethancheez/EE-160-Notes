@@ -117,6 +117,12 @@ int main() {
 }
 ```
 
+## In Lab Notes/Questions
+- Something interesting I found... modulus (%) only works for integers. Make sure that user input is set to an integer and not a float.
+```c
+//this will NOT work
+2.781273 % 2
+```
 
 ## numbers.c
 - Hint: You may need a whole lot of variables...
