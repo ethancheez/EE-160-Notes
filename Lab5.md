@@ -1,7 +1,7 @@
 # Lab 5
 Lab 4 due at the end of lab today, 10:20 AM
 
-Lab 5 due at the end of lab next week: Tuesday, September 29
+Lab 5 due at Friday 10/2 at 5 PM
 
 ## End of File Character
 -   Written as "EOF"
