@@ -1,5 +1,5 @@
 # Lab 6
-Lab 5 is due at the end of lab today at 10:20 AM
+Lab 5 is due on Friday 10/2 at 5 PM
 
 Lab 6 is due next week October 6
 
