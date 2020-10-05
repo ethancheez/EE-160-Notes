@@ -192,11 +192,20 @@ Lowest:  -35.20
   - exponent.h
 - I'm not going to require you to put debug statements here, but if your code doesn't work as intended, put debug statements in.
   
-Example Output:
+Example Outputs:
 ```
 Enter a base and exponenet: 6 8
 Result = 1679616.00
 ```
+```
+Enter a base and exponenet: 6 0
+Result = 1.00 
+```
+```
+Enter a base and exponenet: 6 -1
+Result = 0.00
+```
+
 
 ## What to Submit
 - driver1.c
