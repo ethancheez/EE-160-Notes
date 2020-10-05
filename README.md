@@ -10,6 +10,8 @@ FYI: there may be a few typos in here.
 ## Office Hours
 Mondays: 10:00 AM - 11:00 AM
 
+These will be held inside the same lecture/lab Google Meets link.
+
 For office hours outside of this time, please email me so we can schedule a meeting.
 
 ## Credits
