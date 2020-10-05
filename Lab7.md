@@ -39,11 +39,9 @@ driver3: test.o test2.o
   
   
 # Below are the output files (.o) that compiles the .h and .c files (except the driver.c files)
-# You write the .h files that you included inside the .c file.
-# For example, if you did "#include "test.h" AND "#include "random.h" inside the test.c file, you include those .h extentions as shown below.
-test.o: test.h random.h
+test.o: test.h
 
-test2.o: test.h 
+test2.o: test2.h 
 
 
 # Clean, this can be useful when your code doesn't work as intended and you want to change stuff.
