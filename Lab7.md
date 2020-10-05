@@ -24,11 +24,18 @@ Example makefile:
 ```makefile
 
 # Below are the commands you can type to compile mass files. i.e. "make driver1", "make driver2", etc.
+# If you simply type "make" it will only run the very first command in this makefile. 
+# To compile ALL your driver files at once, your first line must be somewhat like the first line shown below then type "make" or "make all"
+all: driver1 driver2 driver3
+
 driver1: test.o
   cc test.o driver1.c -o driver1
   
-driver2: test.o test2.o
-  cc test.o test2.o driver2.c -o driver2
+driver2: test2.o
+  cc test2.o driver2.c -o driver2
+  
+driver3: test.o test2.o
+  cc test.o test2.o driver3.c -o driver3
   
   
 # Below are the output files (.o) that compiles the .h and .c files (except the driver.c files)
@@ -40,11 +47,12 @@ test2.o: test.h
 
 
 # Clean, this can be useful when your code doesn't work as intended and you want to change stuff.
-# So all you have to do is type "make clean" first and then recompile with "make driver1" or "make driver2"
+# So all you have to do is type "make clean" first and then recompile with "make driver1" or "make driver2" or "make" or "make all" or you get the idea...
 clean:
   rm *.o
   rm driver1
   rm driver2
+  rm driver3
 ```
 
 ## driver1
