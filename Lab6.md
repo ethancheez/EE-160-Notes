@@ -168,9 +168,9 @@ Enter a pair of floats (CTRL+D to exit): [CTRL + D]
 Example Output (with DEBUG statements enabled):
 ```
 Enter a number: 23.5
-== DEBUG == Current Highest: 23.50       Current Lowest: 0.00
+== DEBUG == Current Highest: 23.50       Current Lowest: 23.50
 Enter a number: 16.1
-== DEBUG == Current Highest: 23.50       Current Lowest: 0.00
+== DEBUG == Current Highest: 23.50       Current Lowest: 16.10
 Enter a number: -35.2
 == DEBUG == Current Highest: 23.50       Current Lowest: -35.20
 Enter a number: 90
@@ -179,7 +179,7 @@ Enter a number: -13.1
 == DEBUG == Current Highest: 90.00       Current Lowest: -35.20
 Enter a number: 0
 == DEBUG == Current Highest: 90.00       Current Lowest: -35.20
-Enter a number: [CTRL + D]
+Enter a number:
 
 Highest: 90.00
 Lowest:  -35.20 
