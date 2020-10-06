@@ -123,8 +123,7 @@ Files Included:
 - days
 - julian
 
-
-
+Notes:
 - There is a slight error in the example code. If your starting date is after the ending date, the output will be incorrect.
 - It's up to you if you want to code it so it will work for the case above, but since it's not implemented in the example code, you won't get deducted points for it (probably, idk I'm not grading this)
 - Note that this is the DIFFERENCE in days. Therefore, it excludes the starting date.
