@@ -38,7 +38,7 @@ driver3: test.o test2.o
   cc test.o test2.o driver3.c -o driver3
   
   
-# Below are the output files (.o) that compiles the .h and .c files (except the driver.c files)
+# Below are the object files (.o) that compiles the .h and .c files (except the driver.c files)
 test.o: test.h
 
 test2.o: test2.h 
