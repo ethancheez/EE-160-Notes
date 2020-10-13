@@ -1,5 +1,5 @@
 # Lab 9
-Try to finish by the end of lab next week, 10/20
+Schedule for this lab might change. You are free to start on this though but it may or may not be due next week.
 
 ## switch case
 - This is essentially a different method of writing if statements
