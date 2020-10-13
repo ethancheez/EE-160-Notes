@@ -25,7 +25,6 @@ The number is 5
 Enter an number in roman numerals(EOF to quit): p
 ERROR: Invalid Roman Number
 
-Enter an number in roman numerals(EOF to quit):
 Enter an number in roman numerals(EOF to quit): mvii
 The number is 1007
 
