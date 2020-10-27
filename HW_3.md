@@ -2,7 +2,6 @@
 
 ## Task 2: Spell Checking
 Example output for moolelo data file
-- **CURRENTLY DOUBLE CHECKING IF THIS OUTPUT IS CORRECT**
 ```
 I
 ka
