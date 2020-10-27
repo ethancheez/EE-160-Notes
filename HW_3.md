@@ -17,7 +17,7 @@ kane
 Akkaka  **Spelling Error**
 me
 kona
-kupunahi**Spelling Error**
+kupunahine
 ma
 Honomu
 i
@@ -30,7 +30,7 @@ mau
 `o
 Akaka
 me
-`elua   **Spelling Error**
+`elua
 kaikamahines    **Spelling Error**
 i
 kela
@@ -43,7 +43,7 @@ ahiahi
 ua
 holoi
 ke
-kupunahi**Spelling Error**
+kupunahine
 i
 kona
 malo
@@ -61,7 +61,7 @@ ke
 ahi
 I
 ke
-kakahiak**Spelling Error**
+kakahiaka
 a`e
 ua
 komo
@@ -79,14 +79,14 @@ i
 waho
 e
 pa`ani
-me      **Spelling Error**
+me
 na
 kaikamahine
 Aue
 no
 ho`i
 e
-Hoo`henehene    **Spelling Error**
+Hoo`henehene
 nui
 laua
 ia
@@ -94,7 +94,6 @@ ia
 no
 ka
 mea
-        **Spelling Error**
 hohono
 the     **Spelling Error**
 malo
@@ -108,7 +107,6 @@ Nui
 loa
 kona
 hilahila
-        **Spelling Error**
 a
 ho`i
 awiwi
@@ -143,7 +141,7 @@ ka
 hale
 a
 lele
-ihola   **Spelling Error**
+ihola
 laua
  Ua
 make
@@ -160,7 +158,6 @@ pono
 o
 ka
 wailele
-        **Spelling Error**
 He
 pohakku **Spelling Error**
 nui
@@ -173,7 +170,7 @@ pohaku
 li`ili`i
 kana
 `ilio
-Kaumaha **Spelling Error**
+Kaumaha
 loa
 ke
 kupunahine
@@ -190,7 +187,7 @@ ma
 luna
 a`e
 o
-ka      **Spelling Error**
+ka
 wailele
  Aia
 keia
@@ -203,12 +200,13 @@ i
 keia
 manawa
  Ua
-kapa    **Spelling Error**
+kapa
 `ia
 kel     **Spelling Error**
 wailele
 `o
 Akaka
+in      **Spelling Error**
 keia
 manawa
 ```
