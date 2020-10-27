@@ -1,6 +1,6 @@
 # Homework 3
 
-## Task 2
+## Task 2: Spell Checking
 Example output for moolelo data file
 ```
 I
