@@ -240,25 +240,15 @@ Average of 4 values is 25.000000.
 ```
 
 ## questions.c
-- Here are the tfdef.h and tfdef.c file if you can't find it (also added stuff for you guys :D):
+- Here is the tfdef.h file if you can't find it (also added stuff for you guys :D):
 ```c
 // tfdef.h
 #define TRUE 1
 #define FALSE 0
 
 #define IS_LOWER(c) ((c) >= 'a' && (c) <= 'z')
-#define IS_UPPER(c) ((c) >= 'A' && (c) <= 'Z')
 
-char to_lower(char c);
-```
-```c
-// tfdef.c
-#include "tfdef.h"
-
-char to_lower(char c) {
-    if(IS_UPPER(c)) return c - 'A' + 'a';
-    return c;
-}
+#define to_lower(c) (IS_LOWER(c) ? c : c - 'A' + 'a')
 ```
 
 Copy this code and change ALL the for loops to while loops:
