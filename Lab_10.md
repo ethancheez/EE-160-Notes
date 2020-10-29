@@ -298,8 +298,6 @@ int yesOrNo(void)
         }
 }
 ```
-- Note: when compiling, you will probably get a warning of an implicit declaration of 'tolower'. You can ignore this.
-- There should not be any other warnings.
 
 
 Example Outputs:
