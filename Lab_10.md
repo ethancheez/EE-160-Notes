@@ -248,7 +248,7 @@ Average of 4 values is 25.000000.
 
 #define IS_LOWER(c) ((c) >= 'a' && (c) <= 'z')
 
-#define to_lower(c) (IS_LOWER(c) ? c : c - 'A' + 'a')
+#define tolower(c) (IS_LOWER(c) ? c : c - 'A' + 'a')
 ```
 
 Copy this code and change ALL the for loops to while loops:
