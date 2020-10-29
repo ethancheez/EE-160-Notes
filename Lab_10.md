@@ -285,7 +285,7 @@ int yesOrNo(void)
                 /* process each input line */
 
                 c = getchar();
-                if ((answer = to_lower(c)) == EOF)
+                if ((answer = tolower(c)) == EOF)
                         return FALSE;                  /* EOF is NO! */
 
                 /* read characters until the end of the line */
