@@ -1,7 +1,7 @@
 # Lab 10
 Lab 9 due at the end of lab today
 
-Lab 10 will be due next week 
+Lab 10 will be due in two weeks (11/10)
 
 ## For Loops
 Here is something we are familiar with:
