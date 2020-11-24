@@ -1,5 +1,5 @@
 # Lab 11 (OPTIONAL - Extra Credit)
-This lab won't be due until it nears the end of the semester. 
+You will have several weeks to do this. I will update this when I have a specific due date.
 
 ## Taylor Series for cosine
 <p align="center">
